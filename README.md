@@ -83,7 +83,7 @@ Hochaufwändiges Prop-Modell für Cosplay mit extremer Detailgenauigkeit und pro
 ---
 
 ## Visual Effects
-
+Modell der spinne: [https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Comic%20Spinne.png]
 ### Feuerpfeil-Effekt
 **Datei:** `Feuerpfeil_mit_sound.mov`
 
@@ -106,7 +106,7 @@ Cinematic Poster im Kinoplakat-Format. Aufwändiges Compositing mit Photoshop. E
 ---
 
 ### Kinoplakat 2
-**Datei:** `Kinoplakat_02.psd` | Exportiert als `Kinoplakat_02.png`
+**Datei:** [`Kinoplakat 1.pdf`](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Photoshop/Filmplakate.pdf) | Exportiert als `Kinoplakat_02.png`
 
 Zweites Kinoplakat-Projekt. Der hohe Spaßfaktor bei der Erstellung des ersten Posters führte zu einem zweiten Entwurf mit experimentellerem Design und erweiterten Techniken.
 
