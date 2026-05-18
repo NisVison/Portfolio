@@ -35,14 +35,14 @@ Detaillierte Nachmodellierung eines Game Boy Micro in Blender mit anschließende
 ---
 
 ### Malerkrepp (Tape Roll)
-**Datei:** [Tape_Roll.blend](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Render_Malerkrepp.png)
+**Datei:** [Tape_Roll](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Render_Malerkrepp.png)
 
 Low-Poly Modell einer Malerkrepp-Rolle mit sauberer Texturierung. Eines der ersten vollständig texturierten Low-Poly-Projekte. Demonstriert fundamentale 3D-Modellierungs- und Texturing-Techniken.
 
 ---
 
 ### Spielcharakter: Ling Pfeffer
-**Datei:** [Ling_Pfeffer.blend](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Spiele%20Charakter%20f%C3%BCr%20ein%20Game.png)
+**Datei:** [Ling_Pfeffer](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Spiele%20Charakter%20f%C3%BCr%20ein%20Game.png)
 
 Pilzartige Charakterfigur für ein Spiel, ursprünglich als 3D-Modell in Blender erstellt. Das Modell wurde anschließend in verschiedene Perspektiven gerendert und zu einem 2D-Pixel-Art-Sprite umgewandelt.
 
@@ -54,8 +54,8 @@ Pilzartige Charakterfigur für ein Spiel, ursprünglich als 3D-Modell in Blender
 
 ---
 
-### Cosplay-Krone
-**Datei:** Crown_Cosplay.blend
+### Horned Crown
+**Datei:** [Horned Crown](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Horned%20Crown_Blender/Horned%20Crown.png)
 
 Hochaufwändiges Prop-Modell für Cosplay mit extremer Detailgenauigkeit und professioneller Texturierung.
 
@@ -84,18 +84,13 @@ Modell der spinne: [Comic Spinne](https://github.com/NisVison/Protfolio_Computer
 
 Experiment mit VFX-Animation: Ein Feuerpfeil trifft auf eine Spinne. Der Effekt zeigt Feuer-Simulation.
 
-**Verwendete Techniken:**
-- Particle Effects
-- Fire Simulation
-- Motion Graphics
-
 ---
 
 ## Photoshop Projekte
 
 ### Kinoplakat 1 & 2
 
-Datei: [`Kinoplakat 1.pdf`](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Photoshop/Filmplakate.pdf)
+Datei: [Kinoplakate](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Photoshop/Filmplakate.pdf)
 
 Zwei cinematic Poster im Kinoplakat-Format. Aufwändiges Compositing mit Photoshop im Rahmen eines Computergrafik-Kurses. Das zweite Plakat entstand aus Spaß an der Erstellung und zeigt experimentellere Designansätze.
 
@@ -105,9 +100,7 @@ Zwei cinematic Poster im Kinoplakat-Format. Aufwändiges Compositing mit Photosh
 
 Die 3D-Modelle können über Sketchfab betrachtet werden:
 
-- [Sketchfab](https://sketchfab.com/Nisvision.1/models) (mit Mesh-Visualisierung)
-
-**Status:** Modelle werden nach und nach hochgeladen. Links folgen.
+- [Sketchfab](https://sketchfab.com/Nisvision.1/models)
 
 ---
 
