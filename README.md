@@ -98,18 +98,10 @@ Experiment mit VFX-Animation: Ein Feuerpfeil trifft auf eine Spinne. Der Effekt 
 
 ## Photoshop Projekte
 
-### Kinoplakat 1
-**Datei:** `Kinoplakat_01.psd` | Exportiert als `Kinoplakat_01.png`
+### Kinoplakat 1 & 2
+**Datei:** [`Kinoplakat 1.pdf`](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Photoshop/Filmplakate.pdf) 
 
-Cinematic Poster im Kinoplakat-Format. Aufwändiges Compositing mit Photoshop. Entstand im Rahmen eines Computergrafik-Kurses.
-
----
-
-### Kinoplakat 2
-**Datei:** [`Kinoplakat 1.pdf`](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Photoshop/Filmplakate.pdf) | Exportiert als `Kinoplakat_02.png`
-
-Zweites Kinoplakat-Projekt. Der hohe Spaßfaktor bei der Erstellung des ersten Posters führte zu einem zweiten Entwurf mit experimentellerem Design und erweiterten Techniken.
-
+Zwei cinematic Poster im Kinoplakat-Format. Aufwändiges Compositing mit Photoshop im Rahmen eines Computergrafik-Kurses. Das zweite Plakat entstand aus Spaß an der Erstellung und zeigt experimentellere Designansätze.
 ---
 
 ## 3D-Modelle Online Betrachten
