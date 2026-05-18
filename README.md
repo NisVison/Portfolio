@@ -4,15 +4,6 @@ Sammlung von Projekten aus den Bereichen 3D-Modellierung, Design und visuelle Ef
 
 ---
 
-## 📋 Inhaltsverzeichnis
-
-- [Canva Designs](#canva-designs)
-- [Blender 3D-Modelle](#blender-3d-modelle)
-- [Visual Effects](#visual-effects)
-- [Photoshop Projekte](#photoshop-projekte)
-
----
-
 ## Canva Designs
 
 ### Science Slam Plakat
@@ -39,7 +30,7 @@ Detaillierte Nachmodellierung eines Game Boy Micro in Blender mit anschließende
 - Optimiert für realtime-Rendering
 - Ideal für Game Engines und VR
 
-**3D-Viewer:** [Link folgt]
+**3D-Viewer:** [Gameboy Micro](https://skfb.ly/pKpMF)
 
 ---
 
