@@ -30,7 +30,7 @@ Einseitiger Handflyer für die Firma net.e in Aurich. Enthält Farbmockup, Unter
 ## Blender 3D-Modelle
 
 ### Game Boy Micro
-**Datei:** Gameboy.blend | Low-Poly Modell
+**Datei:** [Gameboy Low-Poly Modell](https://github.com/NisVison/Protfolio_Computergrafik/tree/main/Game%20Boy%20Micro_Blender)
 
 Detaillierte Nachmodellierung eines Game Boy Micro in Blender mit anschließender Low-Poly-Optimierung für Gaming- und VR-Anwendungen. Das Modell behält trotz reduzierter Polygonzahl hohe visuelle Qualität.
 
@@ -48,8 +48,6 @@ Detaillierte Nachmodellierung eines Game Boy Micro in Blender mit anschließende
 
 Low-Poly Modell einer Malerkrepp-Rolle mit sauberer Texturierung. Eines der ersten vollständig texturierten Low-Poly-Projekte. Demonstriert fundamentale 3D-Modellierungs- und Texturing-Techniken.
 
-**3D-Viewer:** [Link folgt]
-
 ---
 
 ### Spielcharakter: Ling Pfeffer
@@ -62,8 +60,6 @@ Pilzartige Charakterfigur für ein Spiel, ursprünglich als 3D-Modell in Blender
 - Sprite-Animation fertiggestellt
 - Cute Low-Poly Design
 - Einsatzbereit für Game Development
-
-**3D-Viewer:** [Link folgt]
 
 ---
 
@@ -85,7 +81,7 @@ Hochaufwändiges Prop-Modell für Cosplay mit extremer Detailgenauigkeit und pro
 ## Visual Effects
 Modell der spinne: [Comic Spinne](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Comic%20Spinne.png)
 ### Feuerpfeil-Effekt
-**Datei:** `Feuerpfeil_mit_sound.mov`
+**Datei:** [Feuerpfeil_mit_sound](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Feuerpfeil%20mit%20sound%20.mov)
 
 Experiment mit VFX-Animation: Ein Feuerpfeil trifft auf eine Spinne. Der Effekt zeigt Feuer-Simulation.
 
@@ -108,9 +104,9 @@ Zwei cinematic Poster im Kinoplakat-Format. Aufwändiges Compositing mit Photosh
 
 ## 3D-Modelle Online Betrachten
 
-Die einige 3D-Modelle können über sketchfab betrachtet werden:
+Die 3D-Modelle können über Sketchfab betrachtet werden:
 
-- [Sketchfab]([https://sketchfab.com](https://sketchfab.com/Nisvision.1/models)) (hochladen mit Mesh-Visualisierung)
+- [Sketchfab](https://sketchfab.com/Nisvision.1/models) (mit Mesh-Visualisierung)
 
 **Status:** Modelle werden nach und nach hochgeladen. Links folgen.
 
