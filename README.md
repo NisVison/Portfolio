@@ -16,12 +16,12 @@ Sammlung von Projekten aus den Bereichen 3D-Modellierung, Design und visuelle Ef
 ## Canva Designs
 
 ### Science Slam Plakat
-**Datei:** `Science_Slam_Plakat.pdf`
+**Datei:** [`Science_Slam_Plakat.pdf`](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Canva_Illustrator_Indesign/Sience%20Slam_Plakat.pdf)
 
 Auffälliges Werbeplakat für einen Science Slam an der Hochschule.
 
 ### net.e Werbeflyer
-**Datei:** `nete_Werbeflyer.png`
+**Datei:** [`nete_Werbeflyer.png`](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Canva_Illustrator_Indesign/net.e_Werbeflyer.png)
 
 Einseitiger Handflyer für die Firma net.e in Aurich. Enthält Farbmockup, Unternehmensadresse und Kontaktinformationen. Zeigt praktische Anwendung von Canva im kommerziellen Kontext.
 
@@ -78,7 +78,7 @@ Hochaufwändiges Prop-Modell für Cosplay mit extremer Detailgenauigkeit und pro
 - Inspiriert von Fantasy-Design
 - Funktionsfähiger Cosplay-Prop
 
-**3D-Viewer:** [Link folgt]
+**3D-Viewer:** [Horned Crown](https://skfb.ly/pKoHB)
 
 ---
 
@@ -99,12 +99,11 @@ Experiment mit VFX-Animation: Ein Feuerpfeil trifft auf eine Spinne. Der Effekt 
 ## Photoshop Projekte
 
 ### Kinoplakat 1 & 2
-Datei: [`Kinoplakat 1.pdf`](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Photoshop/Filmplakate.pdf) 
-### Kinoplakate
 
-Datei: `Kinoplakate.pdf`
+Datei: [`Kinoplakat 1.pdf`](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Photoshop/Filmplakate.pdf)
 
 Zwei cinematic Poster im Kinoplakat-Format. Aufwändiges Compositing mit Photoshop im Rahmen eines Computergrafik-Kurses. Das zweite Plakat entstand aus Spaß an der Erstellung und zeigt experimentellere Designansätze.
+
 ---
 
 ## 3D-Modelle Online Betrachten
