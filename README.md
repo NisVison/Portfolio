@@ -44,7 +44,7 @@ Detaillierte Nachmodellierung eines Game Boy Micro in Blender mit anschließende
 ---
 
 ### Malerkrepp (Tape Roll)
-**Datei:** Tape_Roll.blend
+**Datei:** [Tape_Roll.blend](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Render_Malerkrepp.png)
 
 Low-Poly Modell einer Malerkrepp-Rolle mit sauberer Texturierung. Eines der ersten vollständig texturierten Low-Poly-Projekte. Demonstriert fundamentale 3D-Modellierungs- und Texturing-Techniken.
 
@@ -53,7 +53,7 @@ Low-Poly Modell einer Malerkrepp-Rolle mit sauberer Texturierung. Eines der erst
 ---
 
 ### Spielcharakter: Ling Pfeffer
-**Datei:** Ling_Pfeffer.blend | Sprites
+**Datei:** [Ling_Pfeffer.blend](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Spiele%20Charakter%20f%C3%BCr%20ein%20Game.png)
 
 Pilzartige Charakterfigur für ein Spiel, ursprünglich als 3D-Modell in Blender erstellt. Das Modell wurde anschließend in verschiedene Perspektiven gerendert und zu einem 2D-Pixel-Art-Sprite umgewandelt.
 
@@ -83,7 +83,7 @@ Hochaufwändiges Prop-Modell für Cosplay mit extremer Detailgenauigkeit und pro
 ---
 
 ## Visual Effects
-Modell der spinne: [https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Comic%20Spinne.png]
+Modell der spinne: [Comic Spinne](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Comic%20Spinne.png)
 ### Feuerpfeil-Effekt
 **Datei:** `Feuerpfeil_mit_sound.mov`
 
