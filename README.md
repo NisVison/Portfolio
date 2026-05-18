@@ -78,6 +78,14 @@ Hochaufwändiges Prop-Modell für Cosplay mit extremer Detailgenauigkeit und pro
 
 ---
 
+### Intro Video / Banner
+
+Datei: [Banner Bild](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Banner(Introvideo)/Banner.png) | [Video](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Banner(Introvideo)/NisVision_mit%20Musik.mp4)
+
+Neon-Intro mit aufwändiger Shader-Arbeit und Compositing-Glow-Effekten in Blender. Das Video zeigt die finale Beleuchtung und Animation mit Sound.
+
+---
+
 ## Visual Effects
 Modell der spinne: [Comic Spinne](https://github.com/NisVison/Protfolio_Computergrafik/blob/main/Game%20assats%20blender/Comic%20Spinne.png)
 ### Feuerpfeil-Effekt
