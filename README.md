@@ -29,8 +29,7 @@ Detaillierte Nachmodellierung eines Game Boy Micro in Blender mit anschließende
 - Akkurate Nachmodellierung des Originals
 - Optimiert für realtime-Rendering
 - Ideal für Game Engines und VR
-
-**3D-Viewer:** [Gameboy Micro](https://skfb.ly/pKpMF)
+*3D-Viewer:* [Ling Pfeffer](https://skfb.ly/pKpMF](https://skfb.ly/pK86P)
 
 ---
 
@@ -52,6 +51,7 @@ Pilzartige Charakterfigur für ein Spiel, ursprünglich als 3D-Modell in Blender
 - Cute Low-Poly Design
 - Einsatzbereit für Game Development
 
+**3D-Viewer:** [Gameboy Micro](https://skfb.ly/pKpMF)
 ---
 
 ### Horned Crown
